@@ -1,6 +1,11 @@
 Templates: []
-Events: []
-Characteristics: []
+Events:
+- Name: Added A Room
+- Name: Registered Online
+Characteristics:
+- Name: Customer
+- Name: Registered
+- Name: Visitor
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
 Key: entities/customer.entity
