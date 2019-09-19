@@ -1,6 +1,12 @@
 Templates: []
-Events: []
-Characteristics: []
+Events:
+- Name: Added By Site Member
+- Name: Booked
+- Name: Readied
+Characteristics:
+- Name: Available
+- Name: Readied
+- Name: Unavailable
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
 Key: entities/room.entity
